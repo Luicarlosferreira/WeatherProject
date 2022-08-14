@@ -12,7 +12,7 @@ _Project with these styles_
 
 ## Fonts = #F7F7F7
 
-_Weather Application to search a clime with location state, zip code or country_
+_Application to search the weather with location state, zip code or country_
 
 ## Api Open Weather
 
