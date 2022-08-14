@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #171717;
+  font-family: "Oswald", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.dev {
+  text-align: center;
+  bottom: 10px;
+  color: white;
+  letter-spacing: 2px;
+}
